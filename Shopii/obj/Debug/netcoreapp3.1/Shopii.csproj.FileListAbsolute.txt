@@ -1,0 +1,13 @@
+C:\Users\Than\Documents\VS program\Shopii\Shopii\obj\Debug\netcoreapp3.1\Shopii.csprojAssemblyReference.cache
+C:\Users\Than\Documents\VS program\Shopii\Shopii\obj\Debug\netcoreapp3.1\Shopii.AssemblyInfoInputs.cache
+C:\Users\Than\Documents\VS program\Shopii\Shopii\obj\Debug\netcoreapp3.1\Shopii.AssemblyInfo.cs
+C:\Users\Than\Documents\VS program\Shopii\Shopii\obj\Debug\netcoreapp3.1\Shopii.csproj.CoreCompileInputs.cache
+C:\Users\Than\Documents\VS program\Shopii\Shopii\bin\Debug\netcoreapp3.1\Shopii.exe
+C:\Users\Than\Documents\VS program\Shopii\Shopii\bin\Debug\netcoreapp3.1\Shopii.deps.json
+C:\Users\Than\Documents\VS program\Shopii\Shopii\bin\Debug\netcoreapp3.1\Shopii.runtimeconfig.json
+C:\Users\Than\Documents\VS program\Shopii\Shopii\bin\Debug\netcoreapp3.1\Shopii.runtimeconfig.dev.json
+C:\Users\Than\Documents\VS program\Shopii\Shopii\bin\Debug\netcoreapp3.1\Shopii.dll
+C:\Users\Than\Documents\VS program\Shopii\Shopii\bin\Debug\netcoreapp3.1\Shopii.pdb
+C:\Users\Than\Documents\VS program\Shopii\Shopii\obj\Debug\netcoreapp3.1\Shopii.dll
+C:\Users\Than\Documents\VS program\Shopii\Shopii\obj\Debug\netcoreapp3.1\Shopii.pdb
+C:\Users\Than\Documents\VS program\Shopii\Shopii\obj\Debug\netcoreapp3.1\Shopii.genruntimeconfig.cache
