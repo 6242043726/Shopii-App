@@ -1,4 +1,4 @@
-Shopii-App is a C# terminal-based application
+# Shopii-App is a C# terminal-based application
 
 Screenshots
 ![1](https://user-images.githubusercontent.com/98745942/230615337-96c0618e-d939-467f-88ed-08943f9155fb.png)
